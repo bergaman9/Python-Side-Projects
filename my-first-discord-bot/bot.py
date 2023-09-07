@@ -1,8 +1,10 @@
-import discord
 import random
+
 import os
 import asyncio
 import aiohttp
+
+import discord
 from discord.ext import commands
 from discord.utils import get
 
@@ -256,10 +258,6 @@ async def kayıt(ctx, name, *,age):
         await ctx.send(embed=embed2)
 
     await member.edit(nick=None)
-
-
-
-
 
 client.run("NzgzMDY0NjE1MDEyNjYzMzI2.X8VTwA.RioPjmb3wC80372ClxhKs--NgZg")
 
