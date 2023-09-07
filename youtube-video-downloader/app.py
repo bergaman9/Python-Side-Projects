@@ -2,7 +2,7 @@ from pytube import YouTube
 
 while(True):
 
-    link = input("\nlink: ")
+    link = input("\nLink: ")
     yt = YouTube(link)
 
     video = yt.streams.get_highest_resolution()
