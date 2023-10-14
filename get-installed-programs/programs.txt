@@ -398,6 +398,7 @@ Xilinx Design Tools Vivado WebPACK 2015.1 (C:\Xilinx) (Versiyon: 2015.1, Yayınc
 Xilinx DocNav (C:\Xilinx) (Versiyon: 2015.1, Yayıncı: Xilinx Inc.)
 Xilinx Information Center (C:\Xilinx) (Versiyon: 2015.1, Yayıncı: Xilinx Inc.)
 Zoom(32bit) (Versiyon: 5.13.12053, Yayıncı: Zoom)
+
 icecap_collection_neutral (Versiyon: 17.7.33906, Yayıncı: Microsoft Corporation)
 icecap_collection_x64 (Versiyon: 17.7.33905, Yayıncı: Microsoft Corporation)
 icecap_collectionresources (Versiyon: 17.7.33906, Yayıncı: Microsoft Corporation)
